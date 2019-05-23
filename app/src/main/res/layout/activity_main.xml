@@ -11,9 +11,9 @@
         style="?android:attr/progressBarStyleHorizontal"
         android:layout_width="match_parent"
         android:progress="0"
-        android:layout_height="10dp"
+        android:layout_height="100dp"
         android:layout_centerInParent="true"
-        android:max="100"
+        android:max="20"
         android:progressDrawable="@drawable/horizontal_progress_drawable" />
 
 </RelativeLayout>
